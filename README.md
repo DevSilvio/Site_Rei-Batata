@@ -2,7 +2,7 @@
 
 #### Este site fiz, pensando em um delivery de batatas recheadas que tem em minha cidade.
 
-#### O requisito da atividade era criar um site com base em todo conhecimento que absorvi durante os modulos de GIT, HTML e CSS e inspirado no projeto anterior que foi feito de um site de loja de games.
+#### O requisito da atividade era criar um site com base em todo conhecimento que adquiri durante os modulos de GIT, HTML e CSS e inspirado no projeto anterior que foi feito de um site de loja de games.
 
 ## Sobre o site:
 - Está reponsivo nas partes de: sobre nós, cardápio e fazer pedido
